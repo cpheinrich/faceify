@@ -1,6 +1,6 @@
 # Faceify
 ### Generative Adversarial Network for Faces
-
+![alt text](http://cpheinrich.com/wp-content/uploads/2018/04/latent_space_interpolation_circular.gif)
 
 ## Getting Started
 - Create a python virtual environment
