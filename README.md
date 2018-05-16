@@ -2,6 +2,8 @@
 ### Generative Adversarial Network for Faces
 ![alt text](http://cpheinrich.com/wp-content/uploads/2018/04/latent_space_interpolation_circular.gif)
 
+
+<img src="http://cpheinrich.com/wp-content/uploads/2018/04/latent_space_interpolation_circular.gif" style="width: 25%; float: right; border-radius: 14px;"/>
 ## Getting Started
 - Create a python virtual environment
 - Activate environment
